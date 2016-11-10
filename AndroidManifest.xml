@@ -4,6 +4,7 @@
     android:versionCode="5"
     android:versionName="0.0.5" >
 
+    <!-- details: https://developer.android.com/guide/topics/manifest/uses-sdk-element.html -->
     <uses-sdk
         android:minSdkVersion="12"
         android:targetSdkVersion="14" >
